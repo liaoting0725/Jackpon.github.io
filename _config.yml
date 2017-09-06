@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Jackpon
+title: liaoting0725
 subtitle:
-description: "a young idler, an old beggar !"
-author: Jackpon
+description: "it is more important to get out of poverty than to be couples!"
+author: liaoting0725
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -215,8 +215,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/Jackpon
-  zhihu: https://www.zhihu.com/people/Jackpon/activities
+  GitHub: https://github.com/liaoting0725
+  zhihu: https://www.zhihu.com/people/wan-shi-wu-0725/activities
 
 # Social Links Icons
 # Icon Mapping:
